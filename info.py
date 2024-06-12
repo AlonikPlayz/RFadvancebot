@@ -98,7 +98,7 @@ MSG_ALRT = environ.get('MSG_ALRT', 'Kʏᴀ ʀᴇ Bʜɪᴋᴍᴀɴɢᴀ 😑,Kʏ�
 
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002153603297'))
 VERIFY_REQ_CHNL = int(environ.get('VERIFY_REQ_CHNL', '-1002203739880'))
-NEW_USER_LOG = int(environ.get('NEW_USER_LOG', ''))
+NEW_USER_LOG = int(environ.get('NEW_USER_LOG', '-1002153603297'))
 BIN_CHNL = int(environ.get('BIN_CHNL', ''))
 
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'bisal_files')
